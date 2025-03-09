@@ -1,0 +1,9 @@
+../Core/Src/main.c:88:5:main	8	static
+../Core/Src/main.c:148:6:SystemClock_Config	72	static
+../Core/Src/main.c:185:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:219:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:252:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:289:6:TransmitAddressAndChannel	16	static
+../Core/Src/main.c:296:16:crc16	24	static
+../Core/Src/main.c:318:6:GetData_AM2315	32	static
+../Core/Src/main.c:349:6:Error_Handler	4	static,ignoring_inline_asm

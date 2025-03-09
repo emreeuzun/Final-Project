@@ -1,0 +1,9 @@
+../Core/Src/main.c:88:5:main	1
+../Core/Src/main.c:148:6:SystemClock_Config	3
+../Core/Src/main.c:185:13:MX_I2C1_Init	2
+../Core/Src/main.c:219:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:252:13:MX_GPIO_Init	1
+../Core/Src/main.c:289:6:TransmitAddressAndChannel	1
+../Core/Src/main.c:296:16:crc16	4
+../Core/Src/main.c:318:6:GetData_AM2315	3
+../Core/Src/main.c:349:6:Error_Handler	1
